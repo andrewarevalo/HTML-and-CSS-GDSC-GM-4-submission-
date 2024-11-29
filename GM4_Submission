@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+        p {
+            color: blue;
+            font-family: "Arial", Comic Sans MS;
+        }
+    </style>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>All About Andrew Arevalo</h1>
+<p>I enjoy thrifting and going on walks. One fun fact about me is that my birthday is on January 1st. Another fun fact about me is that I can snap with all my fingers at the same time with both hands.</p>
+</body>
+</html>
